@@ -1,4 +1,4 @@
-# HWID-Login-System
+# HWID-Authentication-System
 
 ## Description
 Protects your project from unauthorized users using their HWIDS.
