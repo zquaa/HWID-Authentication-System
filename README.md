@@ -12,14 +12,13 @@ pip install requests
 
 ## Usage
 1. Add the code at the beginning of your project.
-2. On line 7 : ```py site = requests.get('TYPE SITE HERE')```
+2. On line 7 : ```site = requests.get('TYPE SITE HERE')```
 3. Replace TYPE SITE HERE with link where you store your Hardware IDS in , example is a raw pastebin or a raw github text file. 
 4. Done.
 
-You should also replace```python
-print('Success.')
-input()```
-with your actual code.
+You should also replace these lines of code with your actual code.
+```print('Success.')```
+```input()```
 
 ## Support
 If you need any help you can contact my discord: 
