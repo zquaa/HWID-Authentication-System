@@ -16,6 +16,10 @@ pip install requests
 3. Replace TYPE SITE HERE with link where you store your Hardware IDS in , example is a raw pastebin or a raw github text file. 
 4. Done.
 
+You should also replace```py print('Success.')
+input()```
+with your actual code.
+
 ## Support
 If you need any help you can contact my discord: 
 
