@@ -21,7 +21,7 @@ You should also replace these lines of code with your actual code.
 ```input()```
 
 ## Support
-If you need any help you can contact my discord: 
+If you need any help you can contact my discord: zqua#9285
 
 ## License
 Anyone can use this authentication system to their projects.
